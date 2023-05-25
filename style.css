@@ -9,6 +9,7 @@
 body{
     background-image: url('imagens/bife2.jpg'); 
     background-position: center;
+    background-repeat: no-repeat;
 }
 
 img.icon{
@@ -21,7 +22,7 @@ iframe.Menus1{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    height: 950px;
+    height: 975px;
     width: 400px;
 }
 iframe.Menus2{
