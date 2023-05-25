@@ -7,11 +7,8 @@
 }
 
 body{
-    background-color: rgb(29, 29, 29);    
-}
-
-div{
-    background-image: url('imagens/bife.jpg');
+    background-image: url('imagens/bife2.jpg'); 
+    background-position: center;
 }
 
 img.icon{
@@ -20,7 +17,7 @@ img.icon{
     margin-right: auto;
 }
 
-iframe{
+iframe.Menus{
     display: block;
     margin-left: auto;
     margin-right: auto;
