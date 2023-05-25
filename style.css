@@ -7,6 +7,10 @@
 }
 
 body{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
     background-color: rgba(0, 0, 0, 0.952);
     background-image: url('imagens/bife2.jpg'); 
     background-position: center top;
