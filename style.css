@@ -7,8 +7,9 @@
 }
 
 body{
+    background-color: rgba(0, 0, 0, 0.952);
     background-image: url('imagens/bife2.jpg'); 
-    background-position: center;
+    background-position: center top;
     background-repeat: no-repeat;
 }
 
