@@ -17,10 +17,17 @@ img.icon{
     margin-right: auto;
 }
 
-iframe.Menus{
+iframe.Menus1{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    height: 850px;
-    width: 500px;
+    height: 950px;
+    width: 400px;
+}
+iframe.Menus2{
+    display: block;
+    width: auto;
+    height: 750px;
+    margin-left: auto;
+    margin-right: auto;
 }
